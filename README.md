@@ -1,12 +1,10 @@
 ![Pokemon Unity](https://i.imgur.com/K9pgeKE.png)
 
-# Pokemon Unity
+# Pokemon Unity by IIcolour Spectrum
 
-![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-
-Pokémon Unity Source Code by IIcolour Spectrum
-
-  This is the source of Pokémon Unity.
+[![License](https://img.shields.io/badge/license-New%20BSD-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Discord Server](https://img.shields.io/badge/join%20us%20on-discord-7289DA.svg)](https://discord.gg/SggHcXP)
+[![Reddit](https://img.shields.io/badge/join%20us%20on-reddit-ff5700.svg)](https://www.reddit.com/r/PokemonUnity/)
 
   PKU was in development for about a year before I could
 not continue working on the project. Rather than let it
@@ -38,7 +36,7 @@ development of Pokémon Unity.
 
 ## Demo and Downloads
 
-There is a demo WebGL for testing available here: [https://developer.cloud.unity3d.com/share/Zy2Q7Ndlgf/](https://developer.cloud.unity3d.com/share/Zy2Q7Ndlgf/)
+There is a demo WebGL for testing available here: [https://developer.cloud.unity3d.com/share/ZJcLqS46-z/](https://developer.cloud.unity3d.com/share/ZJcLqS46-z/)
 
 There are also demos for Windows, Linux, and Mac zipped in [Releases](https://github.com/superusercode/PokemonUnity/releases)! Please report any bugs if found.
 
@@ -50,3 +48,5 @@ Creator is [IIcolour Spectrum](https://www.reddit.com/user/IIcolour_Spectrum)
 Reddit: https://www.reddit.com/r/PokemonUnity/
 
 YouTube: https://www.youtube.com/c/IIcolourSpectrum
+
+Discord server: https://discord.gg/SggHcXP
